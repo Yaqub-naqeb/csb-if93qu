@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yaqub-naqeb.github.io/csb-if93qu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yaqub-naqeb.github.io/csb-if93qu/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://yaqub-naqeb.github.io/csb-if93qu/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://yaqub-naqeb.github.io/csb-if93qu/static/js/runtime-main.ee3382dd.js",
+    "runtime-main.js.map": "https://yaqub-naqeb.github.io/csb-if93qu/static/js/runtime-main.ee3382dd.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://yaqub-naqeb.github.io/csb-if93qu/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://yaqub-naqeb.github.io/csb-if93qu/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://yaqub-naqeb.github.io/csb-if93qu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yaqub-naqeb.github.io/csb-if93qu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://yaqub-naqeb.github.io/csb-if93qu/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee3382dd.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
